@@ -154,20 +154,6 @@ Graph Type: Undirected and Unweighted
 
 Kevin is an isolated user because they have no connections.
 
-Project Structure
-
-LinkUp/
-│
-├── app.py
-├── graph_algorithms.py
-├── main.py
-├── README.md
-│
-├── templates/
-│   └── index.html
-│
-└── static/
-    └── style.css
 
 File Description
 
