@@ -173,9 +173,7 @@ Installation and Setup
 
 Follow these steps to run LINKUP on your local machine.
 
-1. Clone the Repository
-
-git clone https://github.com/your-username/LinkUp.git
+1. Download the repository
 
 2. Open the Project Folder
 
